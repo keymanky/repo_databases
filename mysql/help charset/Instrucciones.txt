@@ -1,0 +1,10 @@
+-Las bases dde datos contiene informacion con caracteres propios del Español de México
+ por lo que se deben configurar:
+
+
+1.-Crear una base de datos o elejir una existente sobre la cual se va cargar
+   la informacion, asegurarse que la codificacion de esta base sea como 
+   la imagen 1.1 o 1.2
+
+2.-Proceder a la restauracion, en ésta especificar que el archivo de origen 
+   .sql sea con la codificacion  o alguna latin
